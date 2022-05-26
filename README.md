@@ -1,3 +1,3 @@
 # treino-grade-01
 
-## Entrega - HTML: Portfólio Básicu ou Entrega - HTML: Mais Tags
+## Entrega - HTML: Portfólio Básico ou Entrega - HTML: Mais Tags
